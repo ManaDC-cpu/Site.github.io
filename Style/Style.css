@@ -74,14 +74,17 @@ footer{
     float: right;
     padding-top: 5%;
     margin: auto;
-    padding-left: 0;
+    width: 50%;
+    font-family: DejaVu Sans Mono;
+    font-size: 150%;
+    
     
 }
 #left{
     display: inline-block;
-    width: 400px;
+    width: 50%;
     margin: auto;
     padding-top: 5%;
-    padding-right: 0;
-    padding-bottom: 20%;
+    padding-right:5% ;
+    
 }
