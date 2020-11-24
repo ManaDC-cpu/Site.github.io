@@ -29,6 +29,10 @@ header, .navbar{
     padding: 1rem .8rem;
 
 }
+#imagem{
+    width: 75px;
+    padding-right: 10%;
+}
 /*textos em geral*/
 #textgeral{
     color: #979dac;
